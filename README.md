@@ -63,4 +63,4 @@ This project is currently maintained by the author. External contributions are n
 
 Author
 
-Created by Ayush Nayak Krish.
+Created by Ayush Nayak.
